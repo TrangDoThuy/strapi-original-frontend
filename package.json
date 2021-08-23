@@ -81,5 +81,6 @@
       "!<rootDir>/node_modules/",
       "!<rootDir>/path/to/dir/"
     ]
-  }
+  },
+  "homepage": "http://myname.github.io/myapp"
 }
